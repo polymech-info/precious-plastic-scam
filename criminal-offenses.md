@@ -20,26 +20,12 @@ A multi-year digital and legal conflict occurred between the central Precious Pl
 ## Conflicting Statements and Allegations
 
 
-┌─────────────────────────────────────────────────────────┐
+### Simplified PolyMech/vendor claims
 
-│                 THE ECOSYSTEM CONFLICT                  │
-
-└────────────────────────────┬────────────────────────────┘
-
-                            │
-
-                            ▼
-
-               \[ PolyMech / Vendor Claims ]
-
-               • Falsified data-theft smears
-
-               • Anticompetitive platform bans
-
-               • IP theft of grassroots upgrades
-
-               • Concealment of workspace toxins
-
+1. Data-theft allegations were allegedly fabricated to justify excluding competitors.
+2. Independent vendors were allegedly banned or deprioritized through platform controls.
+3. Grassroots machine upgrades were allegedly reused without proper attribution or compensation.
+4. Workplace contamination and other safety hazards were allegedly downplayed or concealed.
 
 
 ## PolyMech and Independent Builder Counterclaims:
