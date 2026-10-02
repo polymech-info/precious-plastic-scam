@@ -70,55 +70,13 @@ Technical community autopsies (including reviews on platforms such as Hacker New
 
 ## 5. The New York Corporate "Collab" and Product Liability Litigation
 
+### Simplified timeline
 
-
-┌────────────────────────────────────────────────────────┐
-
-│               NEW YORK LAW SUIT TIMELINE               │
-
-└───────────────────────────┬────────────────────────────┘
-
-                           │
-
-                           ▼
-
-          \[ 1. Corporate Consultation Project ]
-
-          Set up localized recycling lab in Manhattan
-
-                           │
-
-                           ▼
-
-          \[ 2. Deployment of Non-Certified Kits ]
-
-          Sourced DIY-style machines without safety interlocks
-
-                           │
-
-                           ▼
-
-          \[ 3. Severe Mechanical Operator Injury ]
-
-          Open-hopper design resulted in physical trauma
-
-                           │
-
-                           ▼
-
-          \[ 4. Strict Liability Personal Injury Suit ]
-
-          New York litigation targets entire custody chain
-
-                           │
-
-                           ▼
-
-          \[ 5. Operational Capital Exhaustion ]
-
-          High-velocity defense fees trigger total insolvency
-
-
+1. A recycling lab was established in Manhattan.
+2. DIY machines without adequate safety interlocks were installed.
+3. An operator suffered a serious injury involving an open-hopper machine.
+4. A product-liability lawsuit targeted the parties involved in designing, supplying, and operating the equipment.
+5. Legal costs depleted the organization’s remaining funds.
 
 ## The Consultation Agreement
 
