@@ -43,6 +43,18 @@ The damage extends beyond individual workshops. Equipment promoted as accessible
 
 The surrounding marketplace compounds these problems. When the same organization controls promotion, listings, moderation, and access to customers, independent vendors are exposed to arbitrary decisions and conflicts of interest.
 
+### Who the recruitment is for
+
+The public story is written for people who are not in a position to test it: the young, the inexperienced, and anyone whose reason for joining is the cause rather than a background in machinery or business. That audience is not an accident. Inexperience is what the recruitment selects for. People who already know the trade tend not to stay.
+
+If you are responsible for children or teenagers, keep them out of the workshops, residencies, volunteer programs, and community events. Extend the same caution to the women in your family. The risk is not confined to lost money and unsafe equipment. Participants have reported exploitation, harassment, and violence.
+
+### The same pattern elsewhere
+
+Precious Plastic is one case of a wider method. The bait is the phrase "open source," paired with an environmental cause. Unpaid labor and public goodwill are recruited on that basis. In the projects followed here, what follows is exploitation, and violence toward people who ask for working results or try to leave.
+
+Open Source Ecology is the parallel that can be named directly: a noble brief offered first, and the same conduct underneath. Treat the branding as the lure. Judge any such organization by who does the work, who is paid, and what happens to people who object.
+
 ### Why we are publishing this warning
 
 The purpose of this article is to prevent further harm.
@@ -106,7 +118,7 @@ This notice summarizes serious concerns raised by multiple builders, vendors, ma
 * Sensationalism, indoctrination self-centered and misleading texts involving 'sustainable'
 * Claims of major brand adoption without verifiable, detailed case studies and quality assurance evidence.
 * Weaponization of the platform: coordinated smear campaigns and "Warning" articles targeting veterans or retired contributors (e.g., OSR-Plastic.org) to silence technical critique.
-* Cross-organizational baiting: support from or association with groups known for "baiting" volunteers with noble goals while failing to deliver working solutions (e.g., OpenSource-Ecology).
+* The same bait elsewhere: projects that recruit on "open source" and an environmental cause, then run on unpaid labor, exploitation, and retaliation. Open Source Ecology is the documented parallel.
 * Pay-to-play dynamics or conflicts of interest in moderation, curation, or listing prominence.
 
 ## Key Figures and Related Entities
