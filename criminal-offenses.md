@@ -1,44 +1,4 @@
-# Documentation Archive: Investigation into the Structural and Legal Collapse of Precious Plastic
-
-## 1. Overview of the Initiative and Central Conflict
-
-Precious Plastic was established in 2013 by Dave Hakkens as an open-source global recycling initiative, providing free blueprints for small-scale plastic recycling machinery (shredders, extruders, injectors). Over time, the ecosystem fractured into severe internal community disputes, operational insolvency, and legal battles regarding the economic viability and safety of grassroots plastic recycling.
-
----
-
-## 2. Macro-Level Context: The Feasibility of Plastic Recycling
-
-Investigative reporting and environmental research (including investigations by NPR and PBS Frontline) indicate that the global plastics industry was aware by the 1970s and 1980s that widespread plastic recycling was largely economically and chemically unfeasible. The "chasing arrows" recycling symbol was utilized primarily as a marketing mechanism to shift moral responsibility onto consumers and avert regulatory bans. Globally, less than 10% of plastic waste is successfully recycled, with the remainder routed to landfills, incineration, or developing nations.
-
----
-
-## 3. The Core Internal Feud: OSR-Plastic
-
-A multi-year digital and legal conflict occurred between the central Precious Plastic organization (operating under the legal umbrella entity One Army) and OSR-Plastic, an alternative digital repository and shop distributing hardware files and components outside the official platform.
-
-
-## Conflicting Statements and Allegations
-
-
-### Simplified PolyMech/vendor claims
-
-1. Data-theft allegations were allegedly fabricated to justify excluding competitors.
-2. Independent vendors were allegedly banned or deprioritized through platform controls.
-3. Grassroots machine upgrades were allegedly reused without proper attribution or compensation.
-4. Workplace contamination and other safety hazards were allegedly downplayed or concealed.
-
-
-## PolyMech and Independent Builder Counterclaims:
-
-
-* Fabricated Smears: Asserted that data-theft claims were manufactured to justify an anticompetitive ban and secure a monopoly over the commercial "Bazar" marketplace. Backing up public forum directories was framed as standard open-source archiving, as the community map data and forum threads were already public-facing.
-
-* Intellectual Property Stripping: Alleged that the central team routinely copied, rebranded, and integrated mechanical upgrades designed by independent machinists into official updates (such as V4 and Pro series) without licensing credit or compensation.
-
-* Platform Gatekeeping: Claimed independent engineering vendors were structurally deprioritized or shadowbanned if they refused to adhere to centralized monetization schemes and platform fees.
-
-
-## 4. Documented Technical and Operational Failures
+##  Documented Technical and Operational Failures
 
 ## Metric Inflation and Fabricated Impact Data
 
@@ -71,8 +31,6 @@ To secure operational revenue, the central organization entered into a commercia
 ## The Industrial Accident
 
 A severe physical injury occurred involving an operator running the machinery. Technical reviews of the baseline machine blueprints revealed critical design defects according to commercial factory standards:
-
-
 
 * Lack of Guarding: Open-hopper configurations that allow direct access to high-torque shredding components without elongated infeed chutes.
 
@@ -107,8 +65,6 @@ The trajectory of the central Precious Plastic entity serves as a definitive cas
 
 * Digital Enforcement Over Youth Factions: Platform administration utilized heavy-handed moderation, public blacklisting campaigns, and targeted online exclusion against younger, independent makers who questioned the central financial structure, technical efficacy, or safety profiles of the official blueprints.
 
-
-
 ## Impact on Investors and Financial Donors
 
 * Fabricated Metrics and Deceptive Funding Pools: By deliberately maintaining thousands of non-operational, inactive, or completely fabricated ghost accounts on public "Impact Maps," the organization misrepresented its actual operational scale. This data fabrication misled global philanthropic institutions, grant bodies, and private crowd-funders into investing capital under false pretenses.
@@ -116,7 +72,6 @@ The trajectory of the central Precious Plastic entity serves as a definitive cas
 * Zero-Outcome Capital Allocation: Donors were repeatedly solicited for emergency capital and platform expansions (such as the unvouched "V5" iteration) without a verifiable operational roadmap. This lack of oversight led to systemic mismanagement, including the absolute depletion of a six-figure (€100,000) lump-sum corporate donation while the primary infrastructure simultaneously faced structural insolvency.
 
 ## Structural Harm to the Open-Source Ecosystem
-
 
 * Weaponized Gatekeeping: The transition from decentralized blueprint distribution to a centralized commercial marketplace demonstrated how a foundational open-source brand can be leveraged to extort independent fabricators, force platform fee compliance, and choke off autonomous distribution channels.
 

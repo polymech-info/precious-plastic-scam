@@ -8,6 +8,7 @@ author: "PolyMech"
 # Table of Contents
 
 - [Follow-up Summary and Risk Advisory](#follow-up-summary-and-risk-advisory)
+  - [Before you get involved](#before-you-get-involved)
   - [Executive summary](#executive-summary)
   - [Implications for users (makers, workshop operators, educators)](#implications-for-users-makers-workshop-operators-educators)
   - [Implications for investors, donors, and partners](#implications-for-investors-donors-and-partners)
@@ -23,9 +24,38 @@ author: "PolyMech"
 
 # Follow-up Summary and Risk Advisory
 
-This notice summarizes serious concerns raised by multiple builders, vendors, maintainers, and investors regarding the Precious Plastic 'ecosystem'. The reports describe systemic governance, safety, and marketplace issues that have led to significant financial and operational harm across the community. This advisory outlines key takeaways and the practical implications for users and investors, along with immediate risk-mitigation steps.
+
+# Precious Plastic — Scam Warning and Community Risk Advisory
+
+*Unsafe machinery, financial losses, exploitation, marketplace manipulation, and the suppression of critics.*
+
+## Before you get involved
+
+Precious Plastic sells an attractive story: ordinary people turning plastic waste into valuable products, building independent recycling businesses, and contributing to a global environmental movement.
+
+The experiences documented by builders, manufacturers, workshop operators, vendors, and former contributors tell a very different story.
+
+Behind the environmental branding lies a pattern of failed investments, unsafe and underperforming machinery, commercially unrealistic production methods, opaque marketplace control, and hostile treatment of people who challenge the narrative.
+
+Participants have invested their savings, labor, expertise, and reputations in projects that failed to deliver the results they were promised. Some lost substantial amounts of money. Others saw years of technical contributions undermined, commercial access withdrawn, or their reputations attacked after speaking publicly.
+
+The damage extends beyond individual workshops. Equipment promoted as accessible recycling technology introduces serious mechanical, electrical, thermal, and chemical hazards. Poor documentation, inadequate safety systems, and unrealistic operating assumptions transfer the risks to the people building and operating the machines.
+
+The surrounding marketplace compounds these problems. When the same organization controls promotion, listings, moderation, and access to customers, independent vendors are exposed to arbitrary decisions and conflicts of interest.
+
+### Why we are publishing this warning
+
+The purpose of this article is to prevent further harm.
+
+Prospective volunteers deserve to know where their unpaid work is going. Buyers deserve equipment that is safe and fit for purpose. Workshop operators deserve realistic production figures. Donors and investors deserve verifiable results. Technical contributors deserve attribution and the freedom to criticize defective designs without retaliation.
+
+Nobody should have to lose thousands of euros, close a workshop, or endure public attacks before discovering the problems others have already documented.
+
+A worthy environmental objective does not excuse unsafe engineering, misleading commercial promises, exploitation, or abusive governance.
 
 ## Executive summary
+
+This notice summarizes serious concerns raised by multiple builders, vendors, maintainers, and investors regarding the Precious Plastic 'ecosystem'. The reports describe systemic governance, safety, and marketplace issues that have led to significant financial and operational harm across the community. This advisory outlines key takeaways and the practical implications for users and investors, along with immediate risk-mitigation steps.
 
 * High risk of financial loss: reports cite repeated project failures, vendor bankruptcies, and cumulative losses reaching into the millions.
 * Safety and legal exposure: machine designs are reported as unreliable, difficult to operate safely, and not demonstrably compliant with CE or equivalent standards, creating insurance and regulatory risk.
@@ -100,7 +130,7 @@ The following individuals and entities are reported to be directly profiteering 
 
 This is a precautionary risk advisory prepared from community reports and observations. Stakeholders should perform independent verification and seek professional legal, safety, and financial advice before making decisions. If you have additional evidence, corrections, or resources that improve safety and transparency, please share them via neutral, publicly accessible channels.
 
-*We monitor PreciousPlastic's fraudulent practices and 'extraction logic' closely. For a detailed breakdown of specific claims vs. reality, consult [The False Narrative: A Due Diligence Guide](ref/top-10-lies.md).*
+*We monitor PreciousPlastic's fraudulent practices and 'extraction logic' closely. For a detailed breakdown of specific claims vs. reality, consult [The False Narrative: A Due Diligence Guide](./Top Lies - Precious Plastic Scam.md).*
 
 
 [![Health Impacts of Plastic Recycling](https://service.polymech.info/api/images/cache/817b1d3d8ce8472c6609806ca3b2bcf8fcf0909b9e7fe03900a545de022df771.jpeg)](https://service.polymech.info/user/cgo/pages/health-impacts-of-plastic-recycling)
